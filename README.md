@@ -6,7 +6,7 @@ Residente em **Salvador - BA**, sou apaixonado por transformar regras de negóci
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias
 
 <div align="center">
   
