@@ -1,4 +1,4 @@
-# Olá, eu sou o Gregorio Santos! 👋
+# Olá, eu sou o Gregorio Santos!
 
 ### **Arquiteto de Software | Analista de Sistemas | Desenvolvedor Backend Java**
 
