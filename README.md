@@ -1,6 +1,6 @@
-# Olá, eu sou o Gregorio Santos!
+# Olá, eu sou Gregorio Santos!
 
-### **Arquiteto de Software | Analista de Sistemas | Desenvolvedor Backend Java**
+### **Arquiteto de Software | Engenheiro de Software| Analista de Sistemas | Desenvolvedor Backend Java**
 
 Residente em **Salvador - BA**, sou apaixonado por transformar regras de negócio complexas em código limpo, escalável e de alta performance. Com forte base em **Java/Spring Boot**, atuo na construção de APIs robustas e arquiteturas modernas.
 
