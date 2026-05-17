@@ -46,9 +46,9 @@ Residente em **Salvador - BA**, sou apaixonado por transformar regras de negóci
 
 ### 🛠️ Expertise Técnica
 
-* **Backend:** Java (Spring Boot, Security, JPA), PHP (Laravel), C# (.NET).
+* **Backend:** Java (Spring Boot, Security, JPA), Javascript (NodeJS), PHP (Laravel), C# (.NET).
 * **Arquitetura:** Princípios SOLID, Clean Code, DDD (Domain Driven Design) e Design Patterns.
-* **Infraestrutura & DevOps:** CI/CD com Jenkins, Docker, Git/GitLab e Cloud Computing (AWS).
+* **Infraestrutura & DevOps:** CI/CD com Jenkins, GIT, GitHub Actions, Docker, GitLab CI/CD e Cloud Computing (AWS).
 * **Mensageria:** Apache Kafka e RabbitMQ.
 * **Testes:** JUnit e Mockito.
 
